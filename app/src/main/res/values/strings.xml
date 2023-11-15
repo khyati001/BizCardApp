@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BizCard</string>
+    <string name="user_name">John Perry</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="android_compose_programmer">Android Compose Programmer</string>
+    <string name="twitter_handle">\@thejohnCompose</string>
+    <string name="profile_image">profile image</string>
+    <string name="project_description">An Awesome Project</string>
+    <string-array name="Projects">
+        <item>Project 1</item>
+        <item>Project 2</item>
+        <item>Project 3</item>
+        <item>Project 4</item>
+        <item>Project 5</item>
+    </string-array>
 </resources>

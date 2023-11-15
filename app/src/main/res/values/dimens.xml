@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_two">2dp</dimen>
+    <dimen name="padding_three">3dp</dimen>
+    <dimen name="padding_four">4dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_six">6dp</dimen>
+    <dimen name="padding_seven">7dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_fifteen">15dp</dimen>
+    <dimen name="size_hundred">100dp</dimen>
+    <dimen name="size_hundred_and_fifty">150dp</dimen>
+</resources>
